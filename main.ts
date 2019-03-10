@@ -15,6 +15,7 @@ const age: number = 34;
 const sentense: string = `I'm ${fullName}, soon I'll be ${age}
 
 
+
 See you!`;
 console.log(sentense);
 
